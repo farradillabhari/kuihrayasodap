@@ -1,0 +1,38 @@
+kuih {
+  font-family: Arial;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 20px;
+}
+
+.kuih td,.kuih th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.kuih tr:nth-child(even){background-color: #f2f2f2;}
+.kuih tr:hover {background-color: #ddd;}
+
+.kuih th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #FFDF98;
+  color: black;
+  font-family: Arial;
+  font-size: 20px;
+}
+.button{
+ width: 50%;
+  background-color: #E6E8EA;
+  color: black;
+  font-family: Arial;
+  font-size: 18px;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

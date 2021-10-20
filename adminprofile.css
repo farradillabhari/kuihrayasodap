@@ -1,0 +1,21 @@
+.box {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 60%;
+  max-height: 120%;
+  margin: auto;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 25px;
+  background-color:  #E7E7E7  ;
+}
+.title {
+  color: black;
+  font-size: 25px;
+   font-family: arial;
+}
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+p
